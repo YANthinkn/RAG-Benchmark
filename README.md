@@ -1,2 +1,4 @@
-# RAG-Reranker-Benchmark
-RAG Reranker Benchmark Using LangChain
+# RAG Benchmark
+RAG Benchmark Using LangChain
+- Retriever
+- Reranker
